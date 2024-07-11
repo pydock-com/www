@@ -1,0 +1,11 @@
+title: "pydock.com"
+description: "Website pydock.com on repository www for pydock-com"
+mermaid:
+  src: "mermaid.js"
+plugins:
+  - "jekyll-github-metadata"  
+  - "jekyll-readme-index"
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
